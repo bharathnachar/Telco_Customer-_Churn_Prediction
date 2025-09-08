@@ -110,14 +110,10 @@ import joblib
 joblib.dump(rf_pipeline, "telecom_churn_model.pkl")
 print("Model saved as telecom_churn_model.pkl")
 ```
-✅ Tools Used
-
-Python
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-Scikit-Learn
-
-Joblib
+---
+### ✅ Tools Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-Learn
+- Joblib
